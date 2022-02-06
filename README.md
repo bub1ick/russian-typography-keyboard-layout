@@ -6,7 +6,7 @@ A keyboard layout for the Russian language based on the *Russian (Typewriter)* l
 
 1. Download the `.zip` archive from the releases and extract it;
 2. Execute `setup.exe`;
-3. Head to the region and language settings on your version of Windows;
+3. Head to the *region and language* settings on your version of Windows;
 4. Change the ***Russian*** keyboard to the ***Russian (Typography)***.
 
 Alternatively, you can build the keyboard layout yourself, provided you have Microsoft Keyboard Layout Creator.
