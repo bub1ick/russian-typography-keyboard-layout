@@ -4,8 +4,10 @@ The keyboard layout for the Russian language that enhances typing experience and
 
 ## Installation
 
-- Download the repository in a .zip archive or clone it.
-- Execute setup.exe
+1. Download the repository in a .zip archive or clone it.
+2. Execute setup.exe
+3. Head to the region and language settings on your version of Windows
+4. Change the ***Russian*** keyboard to the ***Russian (Typography)***
 
 ## Gallery
 
