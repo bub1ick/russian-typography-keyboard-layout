@@ -14,13 +14,14 @@ Alternatively, you can build the keyboard layout yourself, provided you have Mic
 ## Gallery
 
 No special keys held
+
 ![nothing](bin/ru-tg.jpg)
-
 `Shift` held
+
 ![nothing](bin/ru-tgShft.jpg)
-
 `AltGr`(`Ctrl + Alt`) held
-![nothing](bin/ru-tgAltGr.jpg)
 
+![nothing](bin/ru-tgAltGr.jpg)
 `AltGr`(`Ctrl + Alt`) `+ Shift` held
+
 ![nothing](bin/ru-tgShftAltGr.jpg)
