@@ -12,10 +12,10 @@ The keyboard layout for the Russian language based on the *Russian (Typewriter)*
 ## Gallery
 
 No special keys held
-![nothing](ru-tg.jpg)
+![nothing](bin/ru-tg.jpg)
 `Shift` held
-![nothing](ru-tgShft.jpg)
+![nothing](bin/ru-tgShft.jpg)
 `AltGr`(`Ctrl + Alt`) held
-![nothing](ru-tgAltGr.jpg)
+![nothing](bin/ru-tgAltGr.jpg)
 `AltGr`(`Ctrl + Alt`) `+ Shift` held
-![nothing](ru-tgShftAltGr.jpg)
+![nothing](bin/ru-tgShftAltGr.jpg)
