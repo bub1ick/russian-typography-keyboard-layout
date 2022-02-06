@@ -9,7 +9,7 @@ A keyboard layout for the Russian language based on the *Russian (Typewriter)* l
 3. Head to the region and language settings on your version of Windows;
 4. Change the ***Russian*** keyboard to the ***Russian (Typography)***.
 
-Alternatively, you can build the keyboard layout yourself, provided you have Microsoft Keyboard Layout Creator and you clone the repository.
+Alternatively, you can build the keyboard layout yourself, provided you have Microsoft Keyboard Layout Creator.
 
 ## Gallery
 
