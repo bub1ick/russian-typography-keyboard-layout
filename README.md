@@ -1,6 +1,6 @@
 # russian-typography-keyboard-layout
 
-The keyboard layout for the Russian language that enhances typing experience and allows for more traditional typoghraphy characters such as the dash "—" or the quotes («»,„“)
+The keyboard layout for the Russian language based on the *Russian (Typewriter)* layout that enhances typing experience and allows for more traditional typoghraphy characters such as the dash "—" or the quotes («»,„“).
 
 ## Installation
 
